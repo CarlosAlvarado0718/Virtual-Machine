@@ -9,6 +9,7 @@
 <h1>Let's Create Resource Groups and Deploy a Virtual Machine Together!</h1>
 <br />
 
+This tutorial outlines the founding steps of using Microsoft Azure, Creating Resource Groups, Creating Virtual Machines, and using Remote Desktop Connection(RDP)
 
 <h2>Environments and Technologies Used</h2>
 
